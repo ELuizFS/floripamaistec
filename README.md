@@ -1,3 +1,3 @@
 # floripamaistec
-Repositório com todos os códigos dos exercícios do curso FloripaMaisTec - FullStack
-Teste Comando
+Repositório com os códigos dos exercícios do curso FloripaMaisTec - FullStack
+
